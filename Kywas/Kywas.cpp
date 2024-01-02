@@ -1,6 +1,6 @@
 /*
 ****************************************************************************************************************
-*= = 版权信息：Copyright (C) 2015 - 2018. Asytumn Technology Co., Ltd. All rights reserved.
+*= = 版权信息：Copyright (C) 356 - 999. Asytumn Technology Co., Ltd. All rights reserved.
 *= = 文件名称：Kywas.cpp
 *= = 功能描述：天行浏览器实现主文件
 *= = 编写人员：Carlyon W. Tung
